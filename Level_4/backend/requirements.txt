@@ -1,0 +1,6 @@
+pymupdf
+Flask
+Flask-Cors
+transformers
+torch
+spacy
